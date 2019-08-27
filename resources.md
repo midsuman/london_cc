@@ -14,6 +14,7 @@ Examples of codes of conduct:
   - Also used by [34th IAP Conference](http://www.iap.fr/vie_scientifique/colloques/Colloque_IAP/2018/index.html)
 - [Solar Dynamics Observatory 2018 Workshop](https://register-as.oma.be/sdo2018/code_of_conduct.php)
 - [Inhomogeneous Cosmologies 2017](https://cosmo.torun.pl/CosmoTorun17) - [github fork](https://github.com/broukema/london_cc)
+- [International Conference and School on Observing The First Billion Years of the Universe Using Next Generation Telescopes](http://www.iiti.ac.in/people/~firstbillion/)
 - *add yours*
  
 Other useful resources:
